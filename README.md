@@ -55,9 +55,9 @@ _Christian Zimmermann, Thomas Brox_
 ### Traditional Machine Learning Methods
 Here we pay more attention on DL methods as follows.
 ### Deep Learning Methods
-#### 2D Convolutional Netwoks
+#### 2D convolutional netwoks
 
-#### 3D Convolutional Networks
+#### 3D convolutional networks
 
 #### LSTM Networks
 
