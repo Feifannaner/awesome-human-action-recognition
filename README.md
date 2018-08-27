@@ -24,7 +24,7 @@ list the most popular methods about human action recognition
 
 ## arxiv Papers
 ##### [\[arXiv:1808.07507\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
-
+Unaiza Ahsan,Rishi Madhok
 ## Journal Papers
 ##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
 Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
@@ -41,14 +41,35 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 
 ### 2018 Others
 
-
-
 ### 2017 ICCV
 
 
 ### 2017 CVPR
 ##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
 Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
+### 2017 Others
+
+### 2016 CVPR
+### 2016 ECCV
+### 2016 ICCV
+### 2016 Others
+
+### 2015 CVPR
+### 2015 ECCV
+### 2015 ICCV
+### 2015 Others
+
+### 2014 CVPR
+### 2014 ECCV
+### 2014 ICCV
+### 2014 Others
+
+##### [2014,NIPS] Two-Stream Convolutional Networks for Action Recognition in Videos[\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
+Karen Simonyan,  Andrew Zisserman
+#### 
+Two-Stream Convolutional Networks for Action Recognition in Videos
+##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
+Karen Simonyan,  Andrew Zisserman
 ## Directions
 ### Traditional Machine Learning Methods
 Here we pay more attention on DL methods as follows.
@@ -63,6 +84,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 #### LSTM networks
 
 #### multistream networks
+##### [2014,NIPS] Two-Stream Convolutional Networks for Action Recognition in Videos[\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional)
 
 ## Datasets
 
