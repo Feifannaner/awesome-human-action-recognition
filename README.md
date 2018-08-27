@@ -12,7 +12,7 @@ list the most popular methods about human action recognition
  - [Directions](#Directions):
    - [Traditional Machine Learning Methods](#Traditional-machine-learning-methods)
    - [Deep Learning Methods](#traditional-machine-learning-methods)
-     - [2D Convolutional Netwoks](#2D-convolutional-netwoks)
+     - [2D Convolutional Netwoks](#2d-convolutional-netwoks)
      - [3D Convolutional Networks](#3D-convolutional-neetwoks)
      - [LSTM Networks](#LSTM-networks)
      - [Multi-Stream Networks](#multistream-networks)
