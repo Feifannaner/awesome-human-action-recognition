@@ -9,13 +9,19 @@ list the most popular methods about human action recognition
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
    - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
    - 2014: [CVPR](#2014-cvpr), [Others & Before](#2014-others--before)
+ - [Directions](#Directions):
+   - [Traditional Machine Learning Methods](#Traditional Machine Learning Methods)
+   - [Deep Learning Methods](#Traditional Machine Learning Methods)
+     - [2D Convolutional Netwoks](#2D Convolutional Netwoks)
+     - [3D Convolutional Networks](#3D Convolutional Netwoks)
+     - [LSTM Networks](#LSTM Networks)
  - [Datasets](#datasets)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
 
 ## arxiv Papers
-##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
+##### [\[arXiv:1808.07507\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
 
 ## Journal Papers
 ##### [\[2018 IEEE Access\]](http://xueshu.baidu.com/s?wd=paperuri%3A%2819049f756503f56d1c9af88e1c5da3c8%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7940083%2F&ie=utf-8&sc_us=4530693487242111529) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
@@ -42,6 +48,17 @@ _Jia Li, Zengfu Wang_
 ##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
 _Christian Zimmermann, Thomas Brox_
 
+### 2017 CVPR
+##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
+## Directions
+### Traditional Machine Learning Methods
+Here we pay more attention on DL methods as follows.
+### Deep Learning Methods
+#### 2D Convolutional Netwoks
+
+#### 3D Convolutional Networks
+
+#### LSTM Networks
 
 ## Datasets
 
