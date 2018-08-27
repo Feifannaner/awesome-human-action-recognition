@@ -18,9 +18,8 @@ list the most popular methods about human action recognition
 ##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
 
 ## Journal Papers
-
-##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425735&tag=1)
-_Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
+##### [\[2018 IEEE Access\]](http://xueshu.baidu.com/s?wd=paperuri%3A%2819049f756503f56d1c9af88e1c5da3c8%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7940083%2F&ie=utf-8&sc_us=4530693487242111529) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
+Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 
 ## Conference Papers
 
