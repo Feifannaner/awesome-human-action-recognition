@@ -68,15 +68,15 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 
 - Year： publish date
 - Videos: amount of flips
--Views: amount of view angles
+- Views: amount of view angles
 - Actions: amount of action class
 - Subjects: people in Videos
--Modility: RGB or RGB-D
--Env: Controlled(C) or Uncontrolled(U)
+- Modility: RGB or RGB-D
+- Env: Controlled(C) or Uncontrolled(U)
 
 
 |Dataset|Year|Videos|Views|Actions|Subjects|Modility|Env(C\U)|Related Paper|
-|------|------|------|------|------|------|------|------|------|----------------|
+|------|------|------|------|------|------|------|------|----------------|
 |[KTH](http://www.nada.kth.se/cvap/actions/) | 2004 | 599 | 1 | 6 | 25 | RGB | C | Recognizing human actions: A local svm approach, IEEE ICPR 2004 [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1334462)|
 |[HMDB51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) | 2011| 7000 | - | 51 |  - | RGB  |  U | LHmdb: A large video database for human motion recognition, ICCV 2011 [\[PDF\]](http://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)|
 |[UCF101](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) | 2012| 13320 | - | 101 |  - | RGB  |  U | Ucf101: A dataset of 101 human action classes from videos in the wild, 2012,cRCV-TR-12-01 [\[PDF\]](https://arxiv.org/pdf/1212.0402.pdf)|
