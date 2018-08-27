@@ -17,6 +17,7 @@ list the most popular methods about human action recognition
      - [LSTM Networks](#LSTM-networks)
      - [Multi-Stream Networks](#multistream-networks)
  - [Datasets](#datasets)
+ - [Current Accuracy on Main Datasets](#current-accuracy-on-main-datasets)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
@@ -25,62 +26,62 @@ list the most popular methods about human action recognition
 ##### [\[arXiv:1808.07507\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
 
 ## Journal Papers
-##### [\[2018 IEEE Access\]](http://xueshu.baidu.com/s?wd=paperuri%3A%2819049f756503f56d1c9af88e1c5da3c8%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7940083%2F&ie=utf-8&sc_us=4530693487242111529) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
+##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
 Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 
 ## Conference Papers
 
 ### 2018 ECCV
 
-##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://yongliangyang.net/docs/handMap_eccv18.pdf)
-_Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang_
+
 
 ### 2018 CVPR
 
-##### Learning Pose Specific Representations by Predicting Different Views. [\[PDF\]](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
-_Georg Poier, David Schinagl, Horst Bischof_
+
 
 ### 2018 Others
 
-##### [2018 ICPR] Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image. \[PDF\]
-_Jia Li, Zengfu Wang_
+
 
 ### 2017 ICCV
-##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
-_Christian Zimmermann, Thomas Brox_
+
 
 ### 2017 CVPR
 ##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
+Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 ## Directions
 ### Traditional Machine Learning Methods
 Here we pay more attention on DL methods as follows.
 ### Deep Learning Methods
 #### 2D convolutional netwoks
+##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
+Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 
 #### 3D convolutional networks
-
+##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
+Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 #### LSTM networks
 
 #### multistream networks
 
 ## Datasets
 
-- S/R: Synthetic (S) or Real (R) or Both (B)
-- C/D: Color (RGB) or Depth (D)
-- Obj: Interaction with objects or not
-- #J:  No. of joints
-- V: view (3rd or egocentric)
-- #S: No. of subjects
-- #F: No. of frames (train/test)
+- Year： publish date
+- Videos: amount of flips
+-Views: amount of view angles
+- Actions: amount of action class
+- Subjects: people in Videos
+-Modility: RGB or RGB-D
+-Env: Controlled(C) or Uncontrolled(U)
 
-|Dataset|Year|S/R|C/D|Obj|#J|V|#S|#F|Related Paper|
+
+|Dataset|Year|Videos|Views|Actions|Subjects|Modility|Env(C\U)|Related Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[NYU Hand Pose](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R | D | No | 36 | 3rd | 2 | 72k/8k | Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
-|[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
-|[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
-|[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
-|[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | C+D | Yes |  5 | ego  |  4 | 1485 | Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor, ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
-|[SynthHands](http://handtracker.mpi-inf.mp
+|[KTH](http://www.nada.kth.se/cvap/actions/) | 2004 | 599 | 1 | 6 | 25 | RGB | C | Recognizing human actions: A local svm approach, IEEE ICPR 2004 [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1334462)|
+|[HMDB51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) | 2011| 7000 | - | 51 |  - | RGB  |  U | LHmdb: A large video database for human motion recognition, ICCV 2011 [\[PDF\]](http://serre-lab.clps.brown.edu/wp-content/uploads/2012/08/Kuehne_etal_iccv11.pdf)|
+|[UCF101](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) | 2012| 13320 | - | 101 |  - | RGB  |  U | Ucf101: A dataset of 101 human action classes from videos in the wild, 2012,cRCV-TR-12-01 [\[PDF\]](https://arxiv.org/pdf/1212.0402.pdf)|
+## Current Accuracy on Main Datasets
+- [HDMB51](http://actionrecognition.net/files/dsetdetail.php?did=5;) 82.1% 2017 
 ## workshops
 ## challeges
 ## other related works
