@@ -10,8 +10,8 @@ list the most popular methods about human action recognition
    - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
    - 2014: [CVPR](#2014-cvpr), [Others & Before](#2014-others--before)
  - [Directions](#Directions):
-   - [Traditional Machine Learning Methods](#Traditional Machine Learning Methods)
-   - [Deep Learning Methods](#Traditional Machine Learning Methods)
+   - [Traditional Machine Learning Methods](#Traditional-Machine-Learning-Methods)
+   - [Deep Learning Methods](#traditional-machine-learning-methods)
      - [2D Convolutional Netwoks](#2D Convolutional Netwoks)
      - [3D Convolutional Networks](#3D Convolutional Netwoks)
      - [LSTM Networks](#LSTM Networks)
