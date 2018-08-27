@@ -59,7 +59,7 @@ Here we pay more attention on DL methods as follows.
 
 #### 3D convolutional networks
 
-#### LSTM Networks
+#### LSTM networks
 
 #### multistream networks
 
