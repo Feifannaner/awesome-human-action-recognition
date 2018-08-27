@@ -15,6 +15,7 @@ list the most popular methods about human action recognition
      - [2D Convolutional Netwoks](#2D-convolutional-netwoks)
      - [3D Convolutional Networks](#3D-convolutional-neetwoks)
      - [LSTM Networks](#LSTM-networks)
+     - [Multi-Stream Networks](#multistream-networks)
  - [Datasets](#datasets)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
@@ -59,6 +60,8 @@ Here we pay more attention on DL methods as follows.
 #### 3D Convolutional Networks
 
 #### LSTM Networks
+
+#### multistream networks
 
 ## Datasets
 
