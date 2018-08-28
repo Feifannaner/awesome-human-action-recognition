@@ -16,6 +16,7 @@ list the most popular methods about human action recognition
      - [3D Convolutional Networks](#3D-convolutional-neetwoks)
      - [LSTM Networks](#LSTM-networks)
      - [Multi-Stream Networks](#multistream-networks)
+     - [New feature](#new-feature)
  - [Datasets](#datasets)
  - [Current Accuracy on Main Datasets](#current-accuracy-on-main-datasets)
  - [Workshops](#workshops)
@@ -38,8 +39,9 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 
 
 ### 2018 CVPR
-
-
+##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
+Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
+Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 
 ### 2018 Others
 
@@ -90,6 +92,10 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 #### multistream networks
 ##### [2014,NIPS] Two-Stream Convolutional Networks for Action Recognition in Videos[\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional)
 
+#### new feature
+##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
+Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
+Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 ## Datasets
 
 - Year： publish date
