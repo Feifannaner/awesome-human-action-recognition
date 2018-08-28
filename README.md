@@ -95,7 +95,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 #### new feature
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
-Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
+_Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 ## Datasets
 
 - Year： publish date
