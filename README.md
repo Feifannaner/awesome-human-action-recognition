@@ -25,10 +25,8 @@ list the most popular methods about human action recognition
 ## arxiv Papers
 ##### [\[arXiv:1808.07507\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
 Unaiza Ahsan,Rishi Madhok
-End-to-end Video-level Representation Learning for Action Recognition
-End-to-end Video-level Representation Learning for Action Recognition
-End-to-end Video-level Representation Learning for Action Recognition
 ##### [\[arXiv:1711.04161\]](https://arxiv.org/abs/1711.04161) End-to-end Video-level Representation Learning for Action Recognition. [\[PDF\]](https://arxiv.org/pdf/1711.04161.pdf )
+Jiagang Zhu, Wei Zou, Zheng Zhu
 ## Journal Papers
 ##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
 Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
