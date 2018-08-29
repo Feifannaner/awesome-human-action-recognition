@@ -41,7 +41,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 ### 2018 CVPR
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
-Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
+ Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 
 ### 2018 Others
 
@@ -55,6 +55,8 @@ Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 
 ### 2016 CVPR
 ### 2016 ECCV
+##### [2016,ECCV] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [\[PDF\]](http://cn.arxiv.org/pdf/1608.00859)
+Limin Wang,Yuanjun XiongZhe WangYu QiaoDahua LinXiaoou TangLuc Van Gool
 ### 2016 ICCV
 ### 2016 Others
 
@@ -91,7 +93,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 
 #### multistream networks
 ##### [2014,NIPS] Two-Stream Convolutional Networks for Action Recognition in Videos[\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional)
-
+##### [2016,ECCV] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [\[PDF\]](http://cn.arxiv.org/pdf/1608.00859)
 #### new feature
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
