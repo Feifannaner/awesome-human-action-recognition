@@ -48,7 +48,8 @@ L. Wang, W. Li, W. Li, and L. Van Gool
 ### 2018 Others
 
 ### 2017 ICCV
-
+##### [2017,ICCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
+Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba
 
 ### 2017 CVPR
 ##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
@@ -96,6 +97,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 #### multistream networks
 ##### [2014,NIPS] Two-Stream Convolutional Networks for Action Recognition in Videos[\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional)
 ##### [2016,ECCV] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [\[PDF\]](http://cn.arxiv.org/pdf/1608.00859)
+##### [2017,ICCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
 #### new feature
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
