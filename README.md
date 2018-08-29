@@ -26,7 +26,7 @@ list the most popular methods about human action recognition
 ## arxiv Papers
 ##### [\[arXiv:1808.07507\]](https://arxiv.org/abs/1808.07507) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1808.07507.pdf  )
 Unaiza Ahsan,Rishi Madhok
-##### [\[arXiv:1711.04161\]](https://arxiv.org/abs/1711.04161) End-to-end Video-level Representation Learning for Action Recognition. [\[PDF\]](https://arxiv.org/pdf/1711.04161.pdf )[\[code\]](https://github.com/zhujiagang/DTPP)
+##### [\[arXiv:1711.04161\]](https://arxiv.org/abs/1711.04161) End-to-end Video-level Representation Learning for Action Recognition. [\[PDF\]](https://arxiv.org/pdf/1711.04161.pdf )[\[code\]](https://github.com/zhujiagang/DTPP) 
 Jiagang Zhu, Wei Zou, Zheng Zhu
 ## Journal Papers
 ##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
@@ -41,7 +41,9 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 ### 2018 CVPR
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
- Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
+Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
+##### [2018,CVPR] Appearance-and-Relation Networks for Video Classification [\[PDF\]](https://arxiv.org/pdf/1711.09125.pdf) [\[code\]](https://github.com/wanglimin/ARTNet)
+L. Wang, W. Li, W. Li, and L. Van Gool 
 
 ### 2018 Others
 
