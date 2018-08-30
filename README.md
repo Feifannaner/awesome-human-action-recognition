@@ -57,6 +57,8 @@ Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 ### 2017 Others
 
 ### 2016 CVPR
+##### [2016,CVPR] A Key Volume Mining Deep Framework for Action Recognition[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780588)
+Wangjiang Zhu,Jie Hu,Gang Sun,Xudong Cao,Yu Qiao
 ### 2016 ECCV
 ##### [2016,ECCV] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [\[PDF\]](http://cn.arxiv.org/pdf/1608.00859)
 Limin Wang,Yuanjun XiongZhe WangYu QiaoDahua LinXiaoou TangLuc Van Gool
@@ -98,6 +100,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 ##### [2014,NIPS] Two-Stream Convolutional Networks for Action Recognition in Videos[\[PDF\]](http://papers.nips.cc/paper/5353-two-stream-convolutional)
 ##### [2016,ECCV] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [\[PDF\]](http://cn.arxiv.org/pdf/1608.00859)
 ##### [2017,ICCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
+##### [2016,CVPR] A Key Volume Mining Deep Framework for Action Recognition[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780588)
 #### new feature
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
