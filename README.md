@@ -94,6 +94,8 @@ Here we pay more attention on DL methods as follows.
 Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 
 #### 3D convolutional networks
+##### [\[2014,IEEE Acess:TPAMI\](https://www.computer.org/csdl/trans/tp/2013/01/ttp2013010221-abs.html) 3D Convolutional Neural Networks for Human Action Recognition
+Shuiwang Ji ,Wei Xu,Ming Yang ,Kai Yu
 ##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
 Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 #### LSTM networks
