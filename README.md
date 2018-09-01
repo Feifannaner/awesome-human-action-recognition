@@ -35,7 +35,8 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 ## Conference Papers
 
 ### 2018 ECCV
-
+##### [2017,ECCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
+Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba
 
 
 ### 2018 CVPR
@@ -48,8 +49,7 @@ L. Wang, W. Li, W. Li, and L. Van Gool
 ### 2018 Others
 
 ### 2017 ICCV
-##### [2017,ICCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
-Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba
+
 
 ### 2017 CVPR
 ##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
