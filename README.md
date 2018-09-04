@@ -71,8 +71,13 @@ Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 ### 2017 Others
 
 ### 2016 CVPR
+##### [2016,CVPR] Convolutional Two-Stream Network Fusion for Video Action Recognition[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780582)
+Christoph Feichtenhofer，Axel Pinz，Andrew Zisserman
+
+
 ##### [2016,CVPR] A Key Volume Mining Deep Framework for Action Recognition[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780588)
 Wangjiang Zhu,Jie Hu,Gang Sun,Xudong Cao,Yu Qiao
+
 ### 2016 ECCV
 ##### [2016,ECCV] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [\[PDF\]](http://cn.arxiv.org/pdf/1608.00859)
 Limin Wang,Yuanjun XiongZhe WangYu QiaoDahua LinXiaoou TangLuc Van Gool
