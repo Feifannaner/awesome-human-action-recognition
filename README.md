@@ -35,8 +35,10 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 ## Conference Papers
 
 ### 2018 ECCV
-##### [2017,ECCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
+##### [2018,ECCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
 Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba
+##### [2018,ECCV] Learning Human-Object Interactions by Graph Parsing Neural Networks [\[PDF\]](https://arxiv.org/pdf/1808.07962.pdf) [\[code\]](https://github.com/SiyuanQi/gpnn)
+Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu
 
 
 ### 2018 CVPR
