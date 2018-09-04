@@ -39,7 +39,16 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba
 ##### [2018,ECCV] Learning Human-Object Interactions by Graph Parsing Neural Networks [\[PDF\]](https://arxiv.org/pdf/1808.07962.pdf) [\[code\]](https://github.com/SiyuanQi/gpnn)
 Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu
-
+##### [2018,ECCV] Interaction-aware Spatio-temporal Pyramid Attention Networks for Action Classification[\[PDF\]](https://arxiv.org/pdf/1808.01106.pdf)
+Yang Du,Chunfeng Yuan, Bing Li, Lili Zhao, Yangxi Li and Weiming Hu
+##### [2018,ECCV] Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization[\[PDF\]](https://arxiv.org/pdf/1706.04269.pdf)
+Humam Alwassel, Fabian Caba Heilbron, and Bernard Ghanem
+##### [2018,ECCV] Action Anticipation with RBF Kernelized Feature Mapping RNN [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuge_Shi_Action_Anticipation_with_ECCV_2018_paper.pdf)
+Yuge Shi, Basura Fernando, Richard Hartley
+##### [2018,ECCV] Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning[\[PDF\]](https://arxiv.org/pdf/1805.02335.pdf)
+Chenyang Si, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan
+##### [2018,ECCV] Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset 
+Jamie Ray, Heng Wang, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, Manohar Paluri
 
 ### 2018 CVPR
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
