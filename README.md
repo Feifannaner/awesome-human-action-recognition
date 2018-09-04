@@ -31,6 +31,9 @@ Jiagang Zhu, Wei Zou, Zheng Zhu
 ## Journal Papers
 ##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
 Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
+## Review works
+##### Human Action Recognition and Prediction: A Survey [\[PDF\]](http://cn.arxiv.org/pdf/1806.11230v2)
+Yu Kong, Member, IEEE, and Yun Fu, Senior Member, IEEE
 
 ## Conference Papers
 
@@ -86,6 +89,8 @@ D. Tran, L. Bourdev, R. Fergus, L. Torresani, and M. Paluri
 ### 2015 Others
 
 ### 2014 CVPR
+##### [2014,CVPR] Large-Scale Video Classification with Convolutional Neural Networks [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909619)
+A Karpathy ， G Toderici ， S Shetty ， T Leung ， R Sukthankar,L. Fei-Fei
 ### 2014 ECCV
 ### 2014 ICCV
 ### 2014 Others
