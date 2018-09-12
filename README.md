@@ -52,7 +52,8 @@ Yuge Shi, Basura Fernando, Richard Hartley
 Chenyang Si, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan
 ##### [2018,ECCV] Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset 
 Jamie Ray, Heng Wang, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, Manohar Paluri
-
+##### [2018,ECCV] End-to-End Joint Semantic Segmentation of Actors and Actions in Video [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jingwei_Ji_End-to-End_Joint_Semantic_ECCV_2018_paper.pdf)
+Jingwei Ji, Shyamal Buch, Alvaro Soto, and Juan Carlos Niebles
 ### 2018 CVPR
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
