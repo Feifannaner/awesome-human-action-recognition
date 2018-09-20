@@ -17,6 +17,7 @@ list the most popular methods about human action recognition
      - [LSTM Networks](#LSTM-networks)
      - [Multi-Stream Networks](#multistream-networks)
      - [New feature](#new-feature)
+     - [Explanation of deep representation](#explanation-deep-representation)
  - [Datasets](#datasets)
  - [Current Accuracy on Main Datasets](#current-accuracy-on-main-datasets)
  - [Workshops](#workshops)
@@ -135,6 +136,10 @@ Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
 _Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 ##### [2015,CVPR] Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [\[PDF\]](http://cn.arxiv.org/pdf/1505.04868v1)
 ##### [2017,CVPR] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
+Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
+
+####  explanation deep representation
+##### [\[arXiv:1712.08416\]](https://arxiv.org/pdf/1712.08416.pdf) What have we learned from deep representations for action recognition?
 Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
 ## Datasets
 
