@@ -69,7 +69,7 @@ L. Wang, W. Li, W. Li, and L. Van Gool
 ### 2017 CVPR
 ##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
 Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
-##### [CVPR,2017] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
+##### [2017,CVPR] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
 Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
 ### 2017 Others
 
@@ -118,7 +118,7 @@ Here we pay more attention on DL methods as follows.
 Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
 
 #### 3D convolutional networks
-##### [\[2014,IEEE Acess:TPAMI\](https://www.computer.org/csdl/trans/tp/2013/01/ttp2013010221-abs.html) 3D Convolutional Neural Networks for Human Action Recognition
+##### [\[2014,IEEE Acess:TPAMI\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165309) 3D Convolutional Neural Networks for Human Action Recognition
 Shuiwang Ji ,Wei Xu,Ming Yang ,Kai Yu
 ##### [\[2017 IEEE Access:TPAMI\]](https://ieeexplore.ieee.org/document/7940083/) Long-Term Temporal Convolutions for Action Recognition [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7940083)
 Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
@@ -134,7 +134,7 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
 _Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 ##### [2015,CVPR] Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [\[PDF\]](http://cn.arxiv.org/pdf/1505.04868v1)
-##### [CVPR,2017] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
+##### [2017,CVPR] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
 Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
 ## Datasets
 
