@@ -69,6 +69,8 @@ L. Wang, W. Li, W. Li, and L. Van Gool
 ### 2017 CVPR
 ##### AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos [\[PDF\]](https://arxiv.org/pdf/1611.08240.pdf)
 Amlan Kar, Nishant Rai， Karan Sikka,Gaurav Sharma
+##### [CVPR,2017] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
+Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
 ### 2017 Others
 
 ### 2016 CVPR
@@ -132,6 +134,8 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
 _Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 ##### [2015,CVPR] Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [\[PDF\]](http://cn.arxiv.org/pdf/1505.04868v1)
+##### [CVPR,2017] On the Integration of Optical Flow and Action Recognition [\[PDF\]](https://arxiv.org/pdf/1712.08416.pdf)
+Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
 ## Datasets
 
 - Year： publish date
