@@ -18,6 +18,8 @@ list the most popular methods about human action recognition
      - [Multi-Stream Networks](#multistream-networks)
      - [New feature](#new-feature)
      - [Explanation of deep representation](#explanation-deep-representation)
+     - [Semantic](#semantic)
+
  - [Datasets](#datasets)
  - [Current Accuracy on Main Datasets](#current-accuracy-on-main-datasets)
  - [Workshops](#workshops)
@@ -141,8 +143,10 @@ Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Micha
 ####  explanation deep representation
 ##### [\[arXiv:1712.08416\]](https://arxiv.org/pdf/1712.08416.pdf) What have we learned from deep representations for action recognition?
 Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Michael J. Black
+#### semantic 
+[\[arXiv:1802\]](https://arxiv.org/pdf/1802.06459.pdf) Structured Label Inference for Visual Understanding
+Nelson Nauata, Hexiang Hu, Guang-Tong Zhou, Zhiwei Deng, Zicheng Liao and Greg Mori
 ## Datasets
-
 - Year： publish date
 - Videos: amount of flips
 - Views: amount of view angles
