@@ -4,7 +4,7 @@ list the most popular methods about human action recognition
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
-   - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
+   - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [NIPS](#2018-nips)，[Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
    - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
@@ -63,7 +63,9 @@ Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
 Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
 ##### [2018,CVPR] Appearance-and-Relation Networks for Video Classification [\[PDF\]](https://arxiv.org/pdf/1711.09125.pdf) [\[code\]](https://github.com/wanglimin/ARTNet)
 L. Wang, W. Li, W. Li, and L. Van Gool 
-
+### 2018 NIPS
+##### [2018,NIPS] Trajectory Convolution for Action Recognition[\[PDF\]](https://papers.nips.cc/paper/7489-trajectory-convolution-for-action-recognition) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
+Yue Zhao， Yuanjun，Xiong
 ### 2018 Others
 
 ### 2017 ICCV
