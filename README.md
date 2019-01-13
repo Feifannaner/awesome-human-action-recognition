@@ -19,6 +19,8 @@ list the most popular methods about human action recognition
      - [New feature](#new-feature)
      - [Explanation of deep representation](#explanation-deep-representation)
      - [Semantic](#semantic)
+     - [New Datasets](#datasets)
+
 
  - [Datasets](#datasets)
  - [Current Accuracy on Main Datasets](#current-accuracy-on-main-datasets)
@@ -56,7 +58,8 @@ Chenyang Si, Ya Jing, Wei Wang, Liang Wang, Tieniu Tan
 ##### [2018,ECCV] Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset 
 Jamie Ray, Heng Wang, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, Manohar Paluri
 ##### [2018,ECCV] End-to-End Joint Semantic Segmentation of Actors and Actions in Video [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jingwei_Ji_End-to-End_Joint_Semantic_ECCV_2018_paper.pdf)
-Jingwei Ji, Shyamal Buch, Alvaro Soto, and Juan Carlos Niebles
+##### [2018,ECCV] Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Heng_Wang_Scenes-Objects-Actions_A_Multi-Task_ECCV_2018_paper.pdf)
+Jamie Ray1, Heng Wang1, Du Tran1 Yufei Wang1 ,etc
 ### 2018 CVPR
 ##### [2018,CVPR] Optical Flow Guided Feature: A Fast and Robust Motion Representation for
 Video Action Recognition [\[PDF\]](https://arxiv.org/pdf/1711.11152.pdf)
@@ -148,6 +151,9 @@ Laura Sevilla-Lara, Yiyi Liao, Fatma Guney, Varun Jampani, Andreas Geiger, Micha
 #### semantic 
 [\[arXiv:1802\]](https://arxiv.org/pdf/1802.06459.pdf) Structured Label Inference for Visual Understanding
 Nelson Nauata, Hexiang Hu, Guang-Tong Zhou, Zhiwei Deng, Zicheng Liao and Greg Mori
+#### datasets
+ ##### [2018,ECCV] Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Heng_Wang_Scenes-Objects-Actions_A_Multi-Task_ECCV_2018_paper.pdf)
+
 ## Datasets
 - Year： publish date
 - Videos: amount of flips
