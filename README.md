@@ -44,7 +44,13 @@ Yu Kong, Member, IEEE, and Yun Fu, Senior Member, IEEE
 
 ### 2018 ECCV
 ##### [2018,ECCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
+##### [2018,ECCV] Modality Distillation with Multiple Stream Networks for Action Recognition [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nuno_Garcia_Modality_Distillation_with_ECCV_2018_paper.pdf) 
 Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba
+##### [2018,ECCV] Graph Distillation for Action Detection with Privileged Modalities [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zelun_Luo_Graph_Distillation_for_ECCV_2018_paper.pdf)
+Stanford University 2 Google Inc.
+##### above two papers, they are similar, which belong to a new hole 
+##### [2018,ECCV] Spatio-Temporal Channel Correlation Networks for Action Classification [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ali_Diba_Spatio-Temporal_Channel_Correlation_ECCV_2018_paper.pdf)
+##### note: qustion:3D network cannot learn the relation between spacial and temporal .why?
 ##### [2018,ECCV] Learning Human-Object Interactions by Graph Parsing Neural Networks [\[PDF\]](https://arxiv.org/pdf/1808.07962.pdf) [\[code\]](https://github.com/SiyuanQi/gpnn)
 Siyuan Qi, Wenguan Wang, Baoxiong Jia, Jianbing Shen, Song-Chun Zhu
 ##### [2018,ECCV] Interaction-aware Spatio-temporal Pyramid Attention Networks for Action Classification[\[PDF\]](https://arxiv.org/pdf/1808.01106.pdf)
