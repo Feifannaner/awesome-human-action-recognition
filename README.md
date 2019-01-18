@@ -169,6 +169,9 @@ Nelson Nauata, Hexiang Hu, Guang-Tong Zhou, Zhiwei Deng, Zicheng Liao and Greg M
 - Modility: RGB or RGB-D
 - Env: Controlled(C) or Uncontrolled(U)
 ##### dataset papers 2017 [\[PDF\]](https://www.researchgate.net/publication/236156020_A_survey_of_video_datasets_for_human_action_and_activity_recognition)
+##### 2018 video benchmarks: a review[\[PDF\]](https://www.researchgate.net/publication/327078109_Video_benchmarks_of_human_action_datasets_a_review)
+##### video datasets online(html)[\[HTML\]](https://www.di.ens.fr/~miech/datasetviz/)
+##### compute vision datasets online[\[HTML\]](https://projet.liris.cnrs.fr/voir/wiki/doku.php?id=datasets)
 
 |Dataset|Year|Videos|Views|Actions|Subjects|Modility|Env(C\U)|Related Paper|
 |------|------|------|------|------|------|------|------|----------------|
