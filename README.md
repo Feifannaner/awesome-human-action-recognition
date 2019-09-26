@@ -4,6 +4,7 @@ list the most popular methods about human action recognition
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
+   - 2019：[ICCV](#2019-iccv),
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [NIPS](#2018-nips)，[Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -41,7 +42,87 @@ Gul Varol  , Ivan Laptev, and Cordelia Schmid, Fellow, IEEE
 Yu Kong, Member, IEEE, and Yun Fu, Senior Member, IEEE
 
 ## Conference Papers
+### 2019 ICCV
+Graph Convolutional Networks for Temporal Action Localization
+作者：Chuang Gan 等
 
+Action recognition with spatial-temporal discriminative filter banks
+作者：Yuanjun Xiong 等
+
+AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures
+作者：Google Brain
+
+neural architecture search for video understanding——大力出奇迹
+
+DynamoNet: Dynamic Action and Motion Network
+作者：Ali Diba Luc Van Gool
+
+Reasoning About Human-Object Interactions Through Dual Attention Networks
+作者：Bolei Zhou
+
+Learning Temporal Action Proposals with Fewer Labels
+作者：Stanford Feifei组 Juan Carlos Niebles
+
+EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition
+作者：Dima Damen 等
+
+SlowFast Networks for Video Recognition
+（文章链接：https://arxiv.org/abs/1812.03982）
+kaiming 大神 from FAIR 
+
+Video Classification with Channel-Separated Convolutional Networks
+（文章链接：https://arxiv.org/abs/1904.02811）
+Du Tran 大神 from FAIR
+
+SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition. oral
+（文章链接：https://arxiv.org/abs/1904.04289）
+Du Tran 大神 from FAIR
+
+DistInit: Learning Video Representations without a Single Labeled Video.
+（文章链接：https://arxiv.org/abs/1901.09244）
+Du Tran 大神 from FAIR 
+很简单的思路
+
+TSM: Temporal Shift Module for Efficient Video Understanding
+作者：Ji Lin, Chuang Gan, Song Han
+论文链接：https://arxiv.org/abs/1811.08383
+Github链接：https://github.com/mit-han-lab/temporal-shift-module
+emmm感觉吧，就像是搞了个带Mask的固定卷积核？
+
+BMN: Boundary-Matching Network for Temporal Action Proposal Generation
+（文章链接：https://arxiv.org/abs/1907.09702）
+来自作者大大解读：林天威：[ICCV 2019][时序动作提名] 边界匹配网络详解
+（原文链接：https://zhuanlan.zhihu.com/p/75444151）
+
+Weakly Supervised Energy-Based Learning for Action Segmentation.oral
+文章链接：https://github.com/JunLi-Galios/CDFL
+
+Pose-aware Dynamic Attention for Human Object Interaction Detection
+文章链接：https://github.com/bobwan1995/PMFNet
+
+What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs and Modality Attention
+项目链接：https://iplab.dmi.unict.it/rulstm/
+论文链接：https://arxiv.org/pdf/1905.09035.pdf
+GitHub：https://github.com/fpv-iplab/rulstm
+
+Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings
+论文链接：https://arxiv.org/abs/1908.03477
+项目链接：https://mwray.github.io/FGAR/
+
+HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips
+作者：Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic
+论文链接：https://arxiv.org/abs/1906.03327
+项目链接：https://github.com/antoine77340/howto100m
+code（链接：https://github.com/antoine77340/howto100m）
+
+Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
+作者：Min-Hung Chen, Zsolt Kira, Ghassan AlRegib, Jaekwon Woo, Ruxin Chen, Jian Zheng
+论文链接：https://arxiv.org/abs/1907.12743
+Github链接：https://github.com/cmhungsteve/TA3N
+
+STM- SpatioTemporal and Motion Encoding for Action Recognition
+from ZJU && SenseTime Group Limited 
+论文链接：https://arxiv.org/abs/1908.02486
 ### 2018 ECCV
 ##### [2018,ECCV] Temporal Relational Reasoning in Videos [\[PDF\]](http://people.csail.mit.edu/bzhou/publication/eccv18-TRN.pdf) [\[code\]](https://github.com/metalbubble/TRN-pytorch)
 ##### [2018,ECCV] Modality Distillation with Multiple Stream Networks for Action Recognition [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nuno_Garcia_Modality_Distillation_with_ECCV_2018_paper.pdf) 
